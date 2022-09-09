@@ -1,0 +1,16 @@
+*{margin: 0; padding: 0;}
+
+header{
+  background-color: lightcoral;
+  height: 10vh;
+  position: sticky;
+  top: 0;
+}
+
+main {background-color: lightgray;
+height: 100vh;}
+
+footer {background-color: lightslategray;
+  height: 10vh;
+  position: static;
+}
